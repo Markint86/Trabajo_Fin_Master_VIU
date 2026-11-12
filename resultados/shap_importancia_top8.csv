@@ -1,0 +1,9 @@
+,Regresión Logística,Árbol de Decisión,Random Forest,XGBoost,MLP (Keras)
+category_Grocery,41.55,28.12,15.72,22.43,15.96
+shipping_cost,23.46,27.74,12.72,16.46,9.74
+category_Fashion,21.42,18.79,12.85,12.12,12.18
+profit_margin,4.77,3.74,9.63,8.71,4.35
+price,1.79,6.65,9.43,6.25,3.89
+total_amount,0.0,5.13,7.72,8.45,3.3
+discount,0.0,6.14,3.77,4.72,5.2
+category_Electronics,4.38,0.0,2.35,3.27,5.22

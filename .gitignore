@@ -1,0 +1,23 @@
+# Datos (el dataset se descarga de Kaggle, ver data/README.md)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Memoria del TFM (no pública)
+memoria/
+TFM_*.pdf
